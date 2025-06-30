@@ -41,7 +41,5 @@ Enter second number: 3
 Result: 8
 
 
----
 
-Replace placeholders (like `your-username`, `[Your Name]`, etc.) with your own details. Let me know your calculator’s exact functionality or share your code, and I’ll help tailor the README even more precisely!
 
